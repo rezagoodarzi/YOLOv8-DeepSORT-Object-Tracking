@@ -63,4 +63,4 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
 
 #### Vehicles Detection
 
-![](./YOLOv8-DeepSORT-Object-Tracking/ultralytics/yolo/v8/detect/runs/detect/train5.mp4).
+![](./YOLOv8-DeepSORT-Object-Tracking/ultralytics/yolo/v8/detect/runs/detect/train5/test3.mp4).
