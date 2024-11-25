@@ -68,4 +68,4 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
   <source src="./YOLOv8-DeepSORT-Object-Tracking/ultralytics/yolo/v8/detect/runs/detect/train5/test3.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
+https://github.com/rezagoodarzi/YOLOv8-DeepSORT-Object-Tracking/tree/main/YOLOv8-DeepSORT-Object-Tracking/ultralytics/yolo/v8/detect/runs/detect/train5
