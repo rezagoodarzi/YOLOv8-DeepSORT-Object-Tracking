@@ -6,7 +6,7 @@ YOLOv8 Object Detection with DeepSORT Tracking(ID + Trails) </H1>
 
 - Clone the repository
 ```
-git clone 
+git clone https://github.com/rezagoodarzi/YOLOv8-DeepSORT-Object-Tracking.git
 ```
 - Goto the cloned folder.
 ```
