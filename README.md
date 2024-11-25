@@ -61,11 +61,4 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
 
 ![](./YOLOv8-DeepSORT-Object-Tracking/figure/figure3.png)
 
-#### Vehicles Detection
 
-![](./test3.mp4).
-<video width="640" height="360" controls>
-  <source src="test3.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-https://github.com/rezagoodarzi/YOLOv8-DeepSORT-Object-Tracking/tree/main/test3.mp4
